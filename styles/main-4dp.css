@@ -1,0 +1,186 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.main-jPg {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 33.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.main-jPg .header-5TY {
+  box-sizing: border-box;
+  padding: 3.4rem 20rem 3.4rem 5.7rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #89b6cf;
+  flex-shrink: 0;
+}
+.main-jPg .header-5TY .rectangle-1-D3x {
+  margin-right: 14.6rem;
+  width: 22.5rem;
+  height: 12.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-jPg .header-5TY .item--wke {
+  margin: 1rem 2.15rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.1152273814;
+  letter-spacing: 0.072rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-jPg .header-5TY .item--Rvi {
+  margin: 0.8rem 1.85rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.1152273814;
+  letter-spacing: 0.072rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-jPg .header-5TY .item--iev {
+  margin: 1rem 2.45rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.1152273814;
+  letter-spacing: 0.072rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-jPg .header-5TY .item--phx {
+  margin: 1rem 14.65rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.1152273814;
+  letter-spacing: 0.072rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-jPg .header-5TY .mdi-human-greeting-variant-ioL {
+  margin-top: 1.7rem;
+  width: 5rem;
+  height: 5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-jPg .item--qNA {
+  margin-left: 4.8rem;
+  max-width: 61.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.1152273814;
+  letter-spacing: 0.252rem;
+  color: #635c5c;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.main-jPg .frame-1-Fwg {
+  box-sizing: border-box;
+  padding: 1rem 9.2rem 1rem 9.05rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #bdd193;
+  flex-shrink: 0;
+}
+.main-jPg .frame-1-Fwg .dankababakgmailcom-ysg {
+  margin-right: 24.55rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1152273178;
+  letter-spacing: 0.14rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-jPg .frame-1-Fwg .item-38-096-539-01-01-VLE {
+  margin: 0.5rem 24.5rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1152273178;
+  letter-spacing: 0.14rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main-jPg .frame-1-Fwg .frame-2-mHk {
+  margin-right: 5.8rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-jPg .frame-1-Fwg .frame-3-J2n {
+  margin-right: 5.8rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main-jPg .frame-1-Fwg .frame-4-dqk {
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
